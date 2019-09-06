@@ -1,2 +1,2 @@
 # richardg999.github.io
-Personal website
+Personal website (Credits to Sayan Chaudhry)
